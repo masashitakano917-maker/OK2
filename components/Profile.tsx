@@ -60,7 +60,7 @@ export const Company: React.FC = () => {
             <div className="w-full md:w-80 shrink-0">
                 <div className="relative aspect-[3/4] w-full overflow-hidden bg-white shadow-sm border border-gray-100 group">
                     <img 
-                        src="https://new-sapphire-8dgjipk7tl.edgeone.app/B0000138.jpg" 
+                        src="/IMG_8977.jpg" 
                         alt="Osamu Kimura" 
                         className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105 grayscale hover:grayscale-0"
                     />
